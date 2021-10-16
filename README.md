@@ -21,8 +21,6 @@ I made my own services for my life.
 
 ![Profile views](https://gpvc.arturio.dev/jaylee222)  
 
-
-<h3 align="left">Languages and Tools:</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank">
