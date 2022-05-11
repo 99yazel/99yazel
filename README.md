@@ -17,5 +17,5 @@ _Product developer, yazel_
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F99yazel&count_bg=%23929292&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=99yazel&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
 
-### reading books 📚
+### read books 📚
 - 📔 Clean Code: A Handbook of Agile Software Craftsmanship
